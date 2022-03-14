@@ -20,7 +20,7 @@ public class o1 {
 		
 			System.out.println("uppercase"+uppercase);
 			System.out.println("lowercase"+lowercase);
-		//	System.out.println("number"+isDigit);
+			System.out.println("number"+number);
 			System.out.println("specialchar"+number);
 		
 
