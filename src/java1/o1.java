@@ -28,6 +28,7 @@ public class o1 {
 	public static void main(String[] args) {
 	o1 p= new o1();
 	p.palindrome("RFFYGF&^^%^%847477kbvhggbh");
+	p.palindrome("RFFYGF&^^%^%847477kbvhggbh");
 	}
 
 }
