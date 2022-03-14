@@ -29,6 +29,9 @@ public class o1 {
 	o1 p= new o1();
 	p.palindrome("RFFYGF&^^%^%847477kbvhggbh");
 	p.palindrome("RFFYGF&^^%^%847477kbvhggbh");
+	p.palindrome("RFFYGF&^^%^%847477kbvhggbh");
+	p.palindrome("RFFYGF&^^%^%847477kbvhggbh");
+
 	}
 
 }
